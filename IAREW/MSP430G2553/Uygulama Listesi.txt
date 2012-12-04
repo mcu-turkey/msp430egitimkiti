@@ -1,0 +1,15 @@
+
+MSP430 Geliştirme Kartı Uygulama Listesi (MSP430G2553)
+
+1 - LED Karaşimşek Uygulaması-------------------------> Tamamlandı ----> Test OK
+2 - Buton - LED Uygulaması----------------------------> Tamamlandı ----> Test OK
+3 - 2x16 LCD Uygulaması-------------------------------> Tamamlandı ----> Test OK
+4 - 7-segment Uygulaması------------------------------> Tamamlandı ---->
+5 - DS18B20 Uygulaması--------------------------------> Tamamlandı ----> Test OK
+6 - Dahili Sıcaklık Sensörü Uygulaması----------------> Tamamlandı ----> Test OK
+7 - ADC POT1 Uygulaması-------------------------------> Tamamlandı ----> Test OK
+7 - ADC Çoklu Kanal(DTC) Uygulaması(POT1-POT2)--------> Tamamlandı ----> Test OK
+9 - DS1302 Uygulaması---------------------------------> Tamamlandı ---->
+10- Röle Uygulaması-----------------------------------> Tamamlandı ----> Test OK
+11- UART Uygulaması-----------------------------------> Tamamlandı ----> Test OK
+
